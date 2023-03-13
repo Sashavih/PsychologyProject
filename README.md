@@ -6,7 +6,7 @@ Application for psychologist.
 
 <img src="https://github.com/Sashavih/VideoGeek/blob/main/assets/img/main/ps2.png" width="600"/>
 
-<img src="https://github.com/Sashavih/VideoGeek/blob/main/assets/img/main/ps3.png.png" width="600"/>
+<img src="https://github.com/Sashavih/VideoGeek/blob/main/assets/img/main/ps3.png" width="600"/>
 
 
 ### Technologies:
